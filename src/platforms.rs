@@ -32,10 +32,6 @@ pub fn _platforms(response: String) -> String {
 			"content": "Oops - We didn't find your site."
 		},
 		{
-			"platform": "Helpjuice",
-			"content": "We could not find what you're looking for."
-		},
-		{
 			"platform": "Helpscout",
 			"content": "No settings were found for this company:"
 		},
