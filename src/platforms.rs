@@ -20,12 +20,160 @@ pub fn _platforms(response: String) -> String {
 			"content": "<p><strong>There isn't a GitHub Pages site here.</strong></p>"
 		},
 		{
+			"platform": "Tumbler",
+			"content": "Whatever you were looking for doesn't currently exist at this address."
+		},
+		{
 			"platform": "WordPress.com",
 			"content": "Do you want to register <em>"
 		},
 		{
+			"platform": "TeamWork",
+			"content": "Oops - We didn't find your site."
+		},
+		{
+			"platform": "Helpjuice",
+			"content": "We could not find what you're looking for."
+		},
+		{
+			"platform": "Helpscout",
+			"content": "No settings were found for this company:"
+		},
+		{
+			"platform": "Cargo",
+			"content": "<title>404 &mdash; File not found</title>"
+		},
+		{
+			"platform": "Uservoice",
+			"content": "This UserVoice subdomain is currently available!"
+		},
+		{
+			"platform": "Surge",
+			"content": "project not found"
+		},
+		{
+			"platform": "Webflow",
+			"content": "<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>"
+		},
+		{
+			"platform": "Kajabi",
+			"content": "<h1>The page you were looking for doesn\'t exist.</h1>"
+		},
+		{
+			"platform": "Thinkific",
+			"content": "You may have mistyped the address or the page may have moved."
+		},
+		{
+			"platform": "Tave",
+			"content": "<h1>Error 404: Page Not Found</h1>"
+		},
+		{
+			"platform": "Wishpond",
+			"content": "<h1>https://www.wishpond.com/404?campaign=true"
+		},
+		{
+			"platform": "Aftership",
+			"content": "Oops.</h2><p class=\"text-muted text-tight\">The page you're looking for doesn't exist."
+		},
+		{
+			"platform": "Aha",
+			"content": "There is no portal here ... sending you back to Aha!"
+		},
+		{
+			"platform": "Tictail",
+			"content": "to target URL: <a href=\"https://tictail.com"
+		},
+		{
+			"platform": "Tictail Second",
+			"content": "Start selling on Tictail."
+		},
+		{
+			"platform": "Brightcove",
+			"content": "<p class=\"bc-gallery-error-code\">Error Code: 404</p>"
+		},
+		{
+			"platform": "Bigcartel",
+			"content": "<h1>Oops! We couldn&#8217;t find that page.</h1>"
+		},
+		{
+			"platform": "ActiveCampaign",
+			"content": "alt=\"LIGHTTPD - fly light.\""
+		},
+		{
+			"platform": "Campaignmonitor",
+			"content": "Double check the URL or <a href=\"mailto:help@createsend.com"
+		},
+		{
 			"platform": "Amazon S3",
 			"content": "<Code>NoSuchBucket</Code>"
+		},
+		{
+			"platform": "Acquia",
+			"content": "The site you are looking for could not be found."
+		},
+		{
+			"platform": "Acquia Second",
+			"content": "If you are an Acquia Cloud customer and expect to see your site at this address"
+		},
+		{
+			"platform": "Proposify",
+			"content": "If you need immediate assistance, please contact <a href=\"mailto:support@proposify.biz"
+		},
+		{
+			"platform": "Simplebooklet",
+			"content": "We can't find this <a href=\"https://simplebooklet.com"
+		},
+		{
+			"platform": "GetResponse",
+			"content": "With GetResponse Landing Pages, lead generation has never been easier"
+		},
+		{
+			"platform": "Vend",
+			"content": "Looks like you've traveled too far into cyberspace."
+		},
+		{
+			"platform": "Jetbrains",
+			"content": "is not a registered InCloud YouTrack."
+		},
+		{
+			"platform": "Smartling",
+			"content": "Domain is not configured"
+		},
+		{
+			"platform": "Pingdom",
+			"content": "pingdom"
+		},
+		{
+			"platform": "Tilda",
+			"content": "Domain has been assigned"
+		},
+		{
+			"platform": "Mashery",
+			"content": "Unrecognized domain <strong>"
+		},
+		{
+			"platform": "Divio",
+			"content": "Application not responding"
+		},
+		{
+			"platform": "feedpress",
+			"content": "The feed has not been found."
+		},
+		{
+			"platform": "readme",
+			"content": "Project doesnt exist... yet!"
+		},
+		{
+			"platform": "statuspage",
+			"content": "You are being <a href='https>"
+		},
+		{
+			"platform": "zendesk",
+			"content": "Help Center Closed"
+		},
+		{
+			"platform": "zendesk",
+			"content": "Hello! Sorry, but the webs>"
 		},
 		{
 			"platform": "Agile CRM",
@@ -74,6 +222,10 @@ pub fn _platforms(response: String) -> String {
 		{
 			"platform": "Intercom",
 			"content": "Uh oh. That page doesn't exist."
+		},
+		{
+			"platform": "Intercom Second",
+			"content": "This page is reserved for artistic dogs."
 		},
 		{
 			"platform": "JetBrains YouTrack",
@@ -138,6 +290,10 @@ pub fn _platforms(response: String) -> String {
 		{
 			"platform": "Webflow",
 			"content": "<p class=\"description\">The page you are looking for doesn't exist or has been moved.</p>"
+		},
+		{
+			"platform": "Shopify",
+			"content": "Sorry, this shop is currently unavailable."
 		},
 		{
 			"platform": "Worksites",
